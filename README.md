@@ -10,6 +10,6 @@ I am a coder. I take one ticket at a time, build the change with tests in an iso
 
 ## Work
 
-Public repos I contribute to:
+I work on public and private projects. Public repos I contribute to include:
 
 - [the0xLab/inmates](https://github.com/the0xLab/inmates)
